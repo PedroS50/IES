@@ -1,0 +1,10 @@
+*   27463fa (HEAD -> main, origin/search-by-name, origin/main, origin/HEAD, search-by-name) Merge branch into search-by-name
+|\  
+| * 4146178 Implementation of search by city name
+* | 5bd91b5 Implementation of search by city name
+* | a95f52a logging-feature finalizado
+|/  
+* 0037653 (origin/logging-feature) Search by city code
+* 160a75c 5 day forecast - Stable Version
+* cd4fbce Initial commit
+* 358a81c Create .gitignore
